@@ -1,107 +1,119 @@
 $(function() {
-  var ctx = document.getElementById('myChart').getContext("2d");
+  var ctx = document.getElementById("myChart");
 
-  var gradientStrokeAdam = ctx.createLinearGradient(500, 0, 100, 0);
-  gradientStrokeAdam.addColorStop(0, '#80b6f4');
-  gradientStrokeAdam.addColorStop(1, '#f49080');
-
-  var gradientStrokeCeng = ctx.createLinearGradient(500, 0, 100, 0);
-  gradientStrokeCeng.addColorStop(0, '#EE4266');
-  gradientStrokeCeng.addColorStop(1, '#f49080');
-
-  var gradientStrokeMarek = ctx.createLinearGradient(500, 0, 100, 0);
-  gradientStrokeMarek.addColorStop(0, '#FFD23F');
-  gradientStrokeMarek.addColorStop(1, '#f49080');
-
-  var gradientStrokeFulya = ctx.createLinearGradient(500, 0, 100, 0);
-  gradientStrokeFulya.addColorStop(0, '#afa2ff');
-  gradientStrokeFulya.addColorStop(1, '#f49080');
-
-  var gradientStrokeCan = ctx.createLinearGradient(500, 0, 100, 0);
-  gradientStrokeCan.addColorStop(0, '#c3f73a');
-  gradientStrokeCan.addColorStop(1, '#f49080');
-
-  var gradientStrokeEkin = ctx.createLinearGradient(500, 0, 100, 0);
-  gradientStrokeEkin.addColorStop(0, '#540d6e');
-  gradientStrokeEkin.addColorStop(1, '#f49080');
-
+  let MALE_COLOR = 'rgba(0, 254, 239, 0.2)';
+  let FEMALE_COLOR = 'rgba(237, 66, 102,0.2)';
   var myChart = new Chart(ctx, {
-    type: 'line',
+    type: 'bar',
     data: {
-      labels: ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL"],
+      labels: ["1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2018"],
       datasets: [{
-          label: "Adam",
-          borderColor: gradientStrokeAdam,
-          pointRadius: 0,
-          fill: false,
-          backgroundColor: gradientStrokeAdam,
-          borderWidth: 5,
-          data: [0, 30, 60, 90, 60, 30, 0]
-        }, {
-          label: "Cengiz",
-          borderColor: gradientStrokeCeng,
-          pointRadius: 0,
-          fill: false,
-          backgroundColor: gradientStrokeCeng,
-          borderWidth: 5,
-          data: [0, 20, 40, 60, 40, 20, 0]
+          label: 'Male Students',
+          data: [10, 19, 3, 5, 2, 3, 10, 19, 3, 5, 2, 3, 10, 19, 3, 5, 2, 3, 10, 19, 3, 5, 2, 3, 1, 3, 10, 3],
+          backgroundColor: [
+            MALE_COLOR, MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR,
+            MALE_COLOR
+          ],
+          borderColor: [
+            'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)',
+            'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)',
+            'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)',
+            'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)',
+            'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)', 'rgb(73, 197, 227)'
+          ],
+          borderWidth: 2
         },
         {
-          label: "Marek",
-          borderColor: gradientStrokeMarek,
-          pointRadius: 0,
-          fill: false,
-          backgroundColor: gradientStrokeMarek,
-          borderWidth: 5,
-          data: [0, 50, 100, 160, 100, 50, 0]
-        },
-        {
-          label: "Fulya",
-          borderColor: gradientStrokeFulya,
-          pointRadius: 0,
-          fill: false,
-          backgroundColor: gradientStrokeFulya,
-          borderWidth: 5,
-          data: [0, 40, 80, 120, 80, 40, 0]
+          label: 'Female Students',
+          data: [-1, -15, -25, -5, -2, -3, -10, -9, -13, -15, -12, -3, -10, -19, -3, -5, -2, -3, -10, -19, -3, -5, -2, -3, -1, -3, -10, -3],
+          backgroundColor: [
+            FEMALE_COLOR, FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR,
+            FEMALE_COLOR
+          ],
+          borderColor: [
+            'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)',
+            'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)',
+            'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)',
+            'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)',
+            'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)', 'rgb(237, 66, 102)'
+          ],
+          borderWidth: 2
         }
       ]
     },
     options: {
-      scaleShowLabels: false,
-      legend: {
-        position: "bottom"
-      },
-
       scales: {
         yAxes: [{
+          display: false,
+          stacked: true,
           ticks: {
-            fontColor: "rgba(0,0,0,0.5)",
-            fontStyle: "bold",
-            beginAtZero: true,
-            maxTicksLimit: 5,
-            padding: 20,
-            display: false
+            beginAtZero: true
           },
           gridLines: {
-            drawTicks: true,
             display: false,
             drawBorder: false
           }
-
         }],
         xAxes: [{
-          gridLines: {
-            zeroLineColor: "transparent",
-            display: false,
-            drawBorder: false
-          },
+          stacked: true,
           ticks: {
-            padding: 20,
-            fontColor: "rgba(0,0,0,0.5)",
-            fontStyle: "bold",
+            beginAtZero: true
+          },
+          gridLines: {
             display: false
           }
         }]
+
       }
     }
   });

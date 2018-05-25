@@ -455,6 +455,16 @@ li.chart__column:hover .chart__column-x {
   font-family: 'Kelson'
 }
 
+.chartClass {
+  position: absolute;
+  margin-top: 20%;
+}
+
+canvas.chartClass {
+  width: 90% !important;
+  height: 100% !important;
+  margin-left: 6%;
+}
 @-webkit-keyframes show-up {
   from {
     height: 0;
@@ -638,7 +648,7 @@ margin-left: 20%;
     section p {
       font: 17pt 'Kelson-Thin', sans-serif;
   width: 90%;
-  left: 45%;
+  left: 50%;
   white-space: normal;
 }
 
@@ -685,7 +695,7 @@ section::after {
     width: 250px;
     height: 250px;
     top: 0;
-    left: 40%;
+    left: 45%;
     margin: -225px 0 0 -225px;
 }
 
@@ -695,7 +705,7 @@ section::after {
     width: 250px;
     height: 250px;
     top: 0;
-    left: 80%;
+    left: 85%;
     margin: -225px 0 0 -225px;
 }
 
@@ -706,7 +716,7 @@ section::after {
 section h1 {
     position: absolute;
     top: 40%;
-    left: 45%;
+    left: 50%;
     z-index: 2;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -719,7 +729,7 @@ section h1 {
 .demo a {
     position: absolute;
     bottom: 20px;
-    left: 33%;
+    left: 38%;
     z-index: 2;
     display: inline-block;
     -webkit-transform: translate(0, -50%);
@@ -732,8 +742,20 @@ section h1 {
 }
 .timeline {
     width: 450px;
-    margin: 20px 20px 20px 110px;
+    margin: 0 20px 20px 160px;
     text-align: center;
+}
+#section04 h1 {
+    position: absolute;
+    top: -26%;
+    left: 54%;
+    z-index: 2;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font: 30pt 'Kelson', sans-serif;
+    text-align: center;
+    white-space: nowrap;
 }
 
 section h4 {
@@ -747,6 +769,12 @@ section h4 {
     font: 14pt 'Kelson', sans-serif;
     text-align: center;
     white-space: nowrap;
+}
+
+canvas.chartClass {
+    width: 90% !important;
+    height: auto !important;
+    margin-left: 5%;
 }
 }
 
@@ -992,5 +1020,17 @@ margin-right: 20%;
 
 #canvasBack {
   display: none
+}
+
+.timeline {
+    width: 450px;
+    margin: 20px 20px 20px 90px;
+    text-align: center;
+}
+
+canvas.chartClass {
+    width: 130% !important;
+    height: auto !important;
+    margin-left: -45%;
 }
 }

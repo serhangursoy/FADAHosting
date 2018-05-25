@@ -116,39 +116,39 @@ $(function() {
     prettify_enabled: false
   });
 
+  /*
+    var values = [3, 10, 4, 6, 3, 9, 6, 9, 8, 7, 16, 13, 18, 11, 12, 9, 8, 8, 7, 11, 16, 17, 14, 10, 6, 6, 4, 5];
+    var valuesFemale = [1, 10, 1, 5, 2, 1, 3, 2, 8, 7, 1, 3, 8, 11, 2, 19, 3, 8, 7, 1, 6, 7, 4, 0, 2, 4, 4, 5];
+    var years = [21, 121, 11, 1, 5, 0, 4, 5, 7, 85, 24, 363];
+    var maxHeight = window.innerHeight / 1.618;
+    var maxValue = values.reduce(function(m, c) {
+      return Math.max(m, c);
+    }, 0);
+    var el = document.getElementById('chart');
+    var markup = valuesFemale.map(function(value, index) {
+      return '<li style="height: ' + maxHeight / (maxValue * 2 / value) + 'px"\n       class="chart__columnFemale">\n   <span class=\'chart__column-yFemale\'>\n      ' + value + '\n    </span>\n  <span class=\'chart__column-xFemale\'>\n      ' + (1990 + index) + '\n    </span>\n </li>';
+    }).join('');
 
-  var values = [3, 10, 4, 6, 3, 9, 6, 9, 8, 7, 16, 13, 18, 11, 12, 9, 8, 8, 7, 11, 16, 17, 14, 10, 6, 6, 4, 5];
-  var valuesFemale = [1, 10, 1, 5, 2, 1, 3, 2, 8, 7, 1, 3, 8, 11, 2, 19, 3, 8, 7, 1, 6, 7, 4, 0, 2, 4, 4, 5];
-  var years = [21, 121, 11, 1, 5, 0, 4, 5, 7, 85, 24, 363];
-  var maxHeight = window.innerHeight / 1.618;
-  var maxValue = values.reduce(function(m, c) {
-    return Math.max(m, c);
-  }, 0);
-  var el = document.getElementById('chart');
-  var markup = valuesFemale.map(function(value, index) {
-    return '<li style="height: ' + maxHeight / (maxValue * 2 / value) + 'px"\n       class="chart__columnFemale">\n   <span class=\'chart__column-yFemale\'>\n      ' + value + '\n    </span>\n  <span class=\'chart__column-xFemale\'>\n      ' + (1990 + index) + '\n    </span>\n </li>';
-  }).join('');
+    el.innerHTML = markup;
 
-  el.innerHTML = markup;
+    el = document.getElementById('chart2');
+    markup = values.map(function(value, index) {
+      return '<li style="height: ' + maxHeight / (maxValue * 2 / value) + 'px"\n       class="chart__column">\n    <span class=\'chart__column-y\'>\n      ' + value + '\n    </span>\n    <span class=\'chart__column-x\'>\n      ' + (1990 + index) + '\n    </span>\n  </li>';
+    }).join('');
 
-  el = document.getElementById('chart2');
-  markup = values.map(function(value, index) {
-    return '<li style="height: ' + maxHeight / (maxValue * 2 / value) + 'px"\n       class="chart__column">\n    <span class=\'chart__column-y\'>\n      ' + value + '\n    </span>\n    <span class=\'chart__column-x\'>\n      ' + (1990 + index) + '\n    </span>\n  </li>';
-  }).join('');
+    el.innerHTML = markup;
 
-  el.innerHTML = markup;
+    function rnd(max = 1, min = 0, pow = 1) {
+      const rnd = (pow === 1) ?
+        Math.random() :
+        Math.pow(Math.random(), pow);
 
-  function rnd(max = 1, min = 0, pow = 1) {
-    const rnd = (pow === 1) ?
-      Math.random() :
-      Math.pow(Math.random(), pow);
+      return (max - min) * rnd + min;
+    }
 
-    return (max - min) * rnd + min;
-  }
+    const variation = 20 * Math.PI / 180;
 
-  const variation = 20 * Math.PI / 180;
-
-
+  */
 });
 
 $("#timelineType").show();
