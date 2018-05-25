@@ -177,11 +177,6 @@ $(function() {
       title: "Advertising & Design",
       value: 226,
       color: "#afa2ff"
-    },
-    {
-      title: "Not Specified",
-      value: 402,
-      color: "#FFD23F"
     }
   ]);
 });

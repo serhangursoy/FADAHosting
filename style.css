@@ -424,19 +424,19 @@ section h1 span span {
 
 
 
-.chart__column:hover {
+li.chart__column:hover {
   box-shadow: 0 0 0 2.5px #00FFFF;
 }
-.chart__column:hover .chart__column-y {
+li.chart__column:hover .chart__column-y {
   display: block;
 }
-.chart__column:hover .chart__column-x {
+li.chart__column:hover .chart__column-x {
   font-weight: bold;
 }
 .chart__column-y {
   display: none;
   position: absolute;
-  top: 10%;
+  top: 150%;
   left: 15%;
   font-weight: bold;
   color: #fff;
@@ -765,6 +765,27 @@ section h4 {
     white-space: nowrap;
   }
 
+  section h4 {
+    position: absolute;
+    top: 5%;
+    left: 27%;
+    z-index: 2;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font: 14pt 'Kelson', sans-serif;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.filter .cat {
+    position: absolute;
+    top: 95%;
+    left: 29%;
+    font: 18pt 'Kelson-Light', sans-serif !important;
+    letter-spacing: 3px;
+}
+
   section p {
     font: 17pt 'Kelson-Thin', sans-serif;
     width: 100%;
@@ -796,12 +817,37 @@ section h4 {
 }
 
 canvas {
-    width: 60% !important;
+    width: 50% !important;
     height: 60% !important;
     margin-left: 35%;
     margin-top: 25%;
 }
 
+#rowHolder>.row {
+  margin-left: 20%
+}
+
+#rowHolder>.row>#imgCol {
+  width: auto;
+}
+
+#writingCol {
+  margin-top: -30% !important;
+      margin-left: 45%;
+}
+
+#productField>.col-sm{
+  width: 200px;
+}
+#productField>img{
+  width: 300px;
+  height: auto;
+}
+
+#productField>video {
+  width: 300px;
+margin-right: 20%;
+}
 #section03 {
     margin-bottom: 200px;
     top: -100px;
@@ -810,9 +856,13 @@ canvas {
     margin-left: -100px;
 }
 
+.modal-dialog {
+      margin-top: 40%;
+}
+
 #section04 {
-    margin-top: 250%;
-    margin-left: 44%;
+  margin-top: 150%;
+    margin-left: 45%;
 }
 
 .chartDoGender {
@@ -821,7 +871,7 @@ canvas {
     width: 150px;
     height: 150px;
     top: 0;
-    left: 55%;
+        left: 35%;
     margin: -105px 0 0 -225px;
 }
 
@@ -831,7 +881,7 @@ canvas {
     width: 150px;
     height: 150px;
     top: 0;
-    left: 110%;
+    left: 90%;
     margin: -105px 0 0 -225px;
 }
 
@@ -917,7 +967,7 @@ canvas {
 #section04 h1 {
     position: absolute;
     top: -26%;
-    left: 35%;
+        left: 30%;
     z-index: 2;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -925,5 +975,22 @@ canvas {
     font: 30pt 'Kelson', sans-serif;
     text-align: center;
     white-space: nowrap;
+}
+
+.teacher_timeline {
+  margin-left: 20%;
+      margin-right: -10%;
+}
+
+.timeline_title {
+    font-family: 'Kelson-Medium';
+    color: #fff;
+    margin-top: 23%;
+    font-size: 25pt;
+    margin-left: 100px;
+}
+
+#canvasBack {
+  display: none
 }
 }

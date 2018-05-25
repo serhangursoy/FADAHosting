@@ -4,217 +4,217 @@ const TEACHERWORKS = [
       "Year": 2014,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Almira Özyıldırım GRA201 - 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Almira Özyıldırım GRA201 - 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": "Unknown",
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Anonim.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Anonim.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": "Unknown",
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Anonim2.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Anonim2.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Arifa Rahimova",
       "Year": 2017,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Arifa Rahimova 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Arifa Rahimova 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Arzu Selvitop",
       "Year": "Unknown",
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Arzu Selvitop.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Arzu Selvitop.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Makbule Aslı Narin",
       "Year": 2016,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Aslı Narin -  GRA202 - 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Aslı Narin -  GRA202 - 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ceren Doğuşlu",
       "Year": 2016,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Ceren Doğuşlu GRA202_2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Ceren Doğuşlu GRA202_2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ceren Doğuşlu",
       "Year": 2016,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Ceren Doğuşlu GRA202_20162.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Ceren Doğuşlu GRA202_20162.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ceyda Koçyiğit",
       "Year": 2017,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Ceyda Koçyiğit - GRA201 - 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Ceyda Koçyiğit - GRA201 - 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Dastan Abaskanov 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Dastan Abaskanov 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Dastan Abaskanov 2017 mockup.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Dastan Abaskanov 2017 mockup.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA202",
       "Category": "Editorial",
-      "Product": "<img src='./instructors/adam/Dastan Abaskanov book1 GRA202 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Dastan Abaskanov book1 GRA202 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA202",
       "Category": "Editorial",
-      "Product": "<img src='./instructors/adam/Dastan Abaskanov book2 GRA202 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Dastan Abaskanov book2 GRA202 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2016,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Dastan Abaskanov GRA201 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Dastan Abaskanov GRA201 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ecem Büyükgüllü",
       "Year": 2018,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Ecem Büyükgüllü GRA201 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Ecem Büyükgüllü GRA201 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Deniz Zabcı",
       "Year": 2016,
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Engin Deniz Zabcı 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Engin Deniz Zabcı 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Ünal",
       "Year": "Unknown",
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Engin Ünal.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Engin Ünal.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Ünal",
       "Year": "Unknown",
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Engin Ünal2.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Engin Ünal2.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gözde Dilara Küçük",
       "Year": "Unknown",
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Gözde Dilara Küçük - GRA.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Gözde Dilara Küçük - GRA.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gözde Dilara Küçük",
       "Year": "Unknown",
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Gözde Dilara Küçük - GRA3.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Gözde Dilara Küçük - GRA3.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gülşebnem Sayın",
       "Year": 2017,
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Gülşebnem Sayın 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Gülşebnem Sayın 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gülşebnem Sayın",
       "Year": 2015,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Gülşebnem Sayın GRA201 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Gülşebnem Sayın GRA201 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gürkan Gürler",
       "Year": 2016,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Gürkan Gürler - GRA202 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Gürkan Gürler - GRA202 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gürkan Gürler",
       "Year": 2017,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Gürkan Gürler - GRA202 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Gürkan Gürler - GRA202 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Hande Şiri",
       "Year": 2017,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Hande Şiri.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Hande Şiri.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Makbule Aslı Narin",
       "Year": 2017,
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Makbule Aslı Narin GRA201 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Makbule Aslı Narin GRA201 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Nilsu Kaygusuz",
       "Year": "Unknown",
       "ClassCode": "GRA201",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Nilsu Kaygusuz.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Nilsu Kaygusuz.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Selin Ölmez",
       "Year": "Unknown",
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Selin Ölmez.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Selin Ölmez.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sera Yaşurgan",
       "Year": 2018,
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Sera Yaşurgan GRA201 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Sera Yaşurgan GRA201 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Seren Sonlu",
       "Year": 2018,
       "ClassCode": "-",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Seren Sonlu GRA201 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Seren Sonlu GRA201 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Şule Kocakavak",
       "Year": 2018,
       "ClassCode": "GRA202",
       "Category": "Illustration",
-      "Product": "<img src='./instructors/adam/Şule Kocakavak_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/adam/Şule Kocakavak_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     }
   ],
   [{
@@ -222,147 +222,147 @@ const TEACHERWORKS = [
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anon1.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>>"
+      "Product": "<img src='./instructors/cengiz/Anon1.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anon2.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anon2.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anon3.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anon3.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anon4.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anon4.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anon5.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anon5.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anon6.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anon6.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Deniz Zabcı",
       "Year": 2015,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Deniz Zabcı",
       "Year": 2015,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı2 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı2 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Deniz Zabcı",
       "Year": 2015,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı3 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı3 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Deniz Zabcı",
       "Year": 2015,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı4 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Engin Deniz Zabcı4 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Şeyma Gelik",
       "Year": 2018,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Şeyma Gelik.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Şeyma Gelik.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Tulu Yardımoğlu",
       "Year": 2015,
       "ClassCode": "FA104",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Tulu Yardımoğlu 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Tulu Yardımoğlu 2015.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2017,
       "ClassCode": "GRA333",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus1.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus1.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2017,
       "ClassCode": "GRA334",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus2.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus2.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2017,
       "ClassCode": "GRA334",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus3.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus3.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2016,
       "ClassCode": "GRA333",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus4.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus4.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2017,
       "ClassCode": "GRA333",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus5.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus5.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2017,
       "ClassCode": "GRA334",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus6.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus6.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2017,
       "ClassCode": "GRA334",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Anonymus7.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymus7.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ant Antakyalı",
       "Year": 2018,
       "ClassCode": "GRA333",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/cengiz/Ant Antakyalı 2018.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Ant Antakyalı 2018.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA214",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anonymous1.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymous1.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
@@ -376,21 +376,21 @@ const TEACHERWORKS = [
       "Year": 2018,
       "ClassCode": "FA214",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anonymous3.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymous3.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "-",
       "Year": 2018,
       "ClassCode": "FA214",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Anonymous4.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Anonymous4.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Çağla Akpınar",
       "Year": 2018,
       "ClassCode": "FA214",
       "Category": "Art",
-      "Product": "<img src='./instructors/cengiz/Çağla Akpınar 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/cengiz/Çağla Akpınar 2018.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
   ],
   [{
@@ -1239,175 +1239,175 @@ const TEACHERWORKS = [
       "Year": 2016,
       "ClassCode": "GRA323",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/2016-sule-kocakavak-pantoloncu.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/2016-sule-kocakavak-pantoloncu.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Şule Kocakavak",
       "Year": 2016,
       "ClassCode": "GRA323",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Anonim.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Anonim.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Arifa Rahimova",
       "Year": 2015,
       "ClassCode": "GRA212",
       "Category": "Typography",
-      "Product": "<img src='./instructors/fulya/Arifa Rahimova 2015.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Arifa Rahimova 2015.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Arifa Rahimova",
       "Year": 2016,
       "ClassCode": "GRA212",
       "Category": "Typography",
-      "Product": "<img src='./instructors/fulya/Arifa Rahimova 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Arifa Rahimova 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Arın Özmen",
       "Year": 2014,
       "ClassCode": "GRA212",
       "Category": "Typography",
-      "Product": "<img src='./instructors/fulya/Arın Özmen 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Arın Özmen 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sonat Arda Erdeniz",
       "Year": 2017,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Art for Ankh - Sonat Arda Erdeniz2.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Art for Ankh - Sonat Arda Erdeniz2.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sonat Arda Erdeniz",
       "Year": 2017,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Art for Ankh - Sonat Arda Erdeniz3.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Art for Ankh - Sonat Arda Erdeniz3.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sonat Arda Erdeniz",
       "Year": 2017,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Art for Ankh - Sonat Arda Erdeniz4.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Art for Ankh - Sonat Arda Erdeniz4.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Barış Hasırcı",
       "Year": 2002,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Baris Hasirci 2002.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Baris Hasirci 2002.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Berkay Dönmez",
       "Year": 2013,
       "ClassCode": "GRA105",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Berkay Dönmez 2013.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Berkay Dönmez 2013.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Cansu Sıla Erdoğan",
       "Year": 2014,
       "ClassCode": "GRA105",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Cansu Sıla Erdoğan 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Cansu Sıla Erdoğan 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2016,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Cansu Sıla Erdoğan 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Cansu Sıla Erdoğan 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Cansu Sıla Erdoğan 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Cansu Sıla Erdoğan 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ece Karaca",
       "Year": 2013,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Ece Karaca Typography poster 2013.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Ece Karaca Typography poster 2013.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ece Karaca",
       "Year": 2013,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Ece Karaca Typography poster 2013.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Ece Karaca Typography poster 2013.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Filiz Durgun",
       "Year": 2016,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Filiz Durgun 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Filiz Durgun 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Filiz Durgun",
       "Year": 2016,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Filiz Durgun2 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Filiz Durgun2 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Murat Akkuş",
       "Year": 2016,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Murat Akkuş 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Murat Akkuş 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Naz Şahin",
       "Year": 2002,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Naz Şahin 2002.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Naz Şahin 2002.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Makbule Aslı Narin",
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Makbule Aslı Narin_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Makbule Aslı Narin_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gülşebnem Sayın",
       "Year": 2017,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Tinky - Gülşebnem Sayın 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Tinky - Gülşebnem Sayın 2017.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Yiğitcan Tunçer",
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Typography",
-      "Product": "<img src='./instructors/fulya/Yiğitcan Tunçer_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Yiğitcan Tunçer_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Zeynep Gürsel",
       "Year": 2014,
       "ClassCode": "GRA302",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Zeynep Gürsel EVON' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Zeynep Gürsel EVON' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Müge Pelin Şen",
       "Year": 2014,
       "ClassCode": "GRA105",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Müge Pelin Şen 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Müge Pelin Şen 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Oğuz Şahin",
       "Year": 2014,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/fulya/Oğuz Şahin - 2014 (2).jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/fulya/Oğuz Şahin - 2014 (2).jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
   ],
   [{
@@ -1456,70 +1456,70 @@ const TEACHERWORKS = [
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/Etaoin Shdlu Ipek_Pelit-01.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/Etaoin Shdlu Ipek_Pelit-01.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Yağmur Başgül",
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/yagmur_basgul_etaoin_poster-01.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/yagmur_basgul_etaoin_poster-01.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Maheen Nasir",
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/maheen_nasir.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/maheen_nasir.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Beril Akşit",
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/etaoin shrdlu_beril_akşit-01.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/etaoin shrdlu_beril_akşit-01.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Defne Auf",
       "Year": 2017,
       "ClassCode": "GRA212",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/etaoin shrudlu defne_auf.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/etaoin shrudlu defne_auf.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ece Karaca",
       "Year": 2015,
       "ClassCode": "GRA313",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/Ece Karaca 2 GRA 313.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/Ece Karaca 2 GRA 313.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Oğuz Şahin",
       "Year": 2015,
       "ClassCode": "GRA313",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/Oğuz Şahin.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/Oğuz Şahin.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sinan Özen",
       "Year": 2015,
       "ClassCode": "GRA313",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/Sinan Özen.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/Sinan Özen.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Ünal",
       "Year": 2015,
       "ClassCode": "GRA313",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/can/Engin Ünal - GRA313-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/Engin Ünal - GRA313-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ceren Doğuşlu",
       "Year": 2018,
       "ClassCode": "GRA316",
       "Category": "UI/UX Design",
-      "Product": "<img src='./instructors/can/Ece Karaca Information 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/can/Ece Karaca Information 2014.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     }
   ],
   [{
@@ -1527,133 +1527,133 @@ const TEACHERWORKS = [
       "Year": 2016,
       "ClassCode": "GRA207",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Ece Seyrek.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Ece Seyrek.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Mert Öskeroğlu",
       "Year": 2016,
       "ClassCode": "GRA207",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Mert Öskeroğlu 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Mert Öskeroğlu 2016.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Mert Öskeroğlu",
       "Year": 2016,
       "ClassCode": "GRA207",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Mert Öskeroğlu.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Mert Öskeroğlu.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Anıl Özdem",
       "Year": 2015,
       "ClassCode": "GRA511",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Anil-Ozdem_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Anil-Ozdem_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Çetin Tunger",
       "Year": 2015,
       "ClassCode": "GRA511",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Cetin-Tunger-2_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Cetin-Tunger-2_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sepideh",
       "Year": 2015,
       "ClassCode": "GRA511",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Sepideh_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Sepideh_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sıla Alıcı",
       "Year": 2015,
       "ClassCode": "GRA511",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Sıla-Alıcı_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Sıla-Alıcı_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Volkan Acun",
       "Year": 2015,
       "ClassCode": "GRA511",
       "Category": "Typography",
-      "Product": "<img src='./instructors/ekin/Volkan-Acun_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Volkan-Acun_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Arifa Rahimova",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/Arifa Rahimova.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Arifa Rahimova.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/DastanAbaskanov-Poster-2-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/DastanAbaskanov-Poster-2-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/DastanAbaskanov-Poster-3-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/DastanAbaskanov-Poster-3-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Dastan Abaskanov",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/DastanAbaskanov-Poster-1-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/DastanAbaskanov-Poster-1-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Güneş Yigeno",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/gunesyigeno-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/gunesyigeno-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Yeşim Ceren Ünal",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/yesimcerenünal-jazzsergileme-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/yesimcerenünal-jazzsergileme-01_compressed.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Alara Tigrel",
       "Year": 2015,
       "ClassCode": "GRA541",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/Alara-Tigrel-temp.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Alara-Tigrel-temp.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ali Ranjbar",
       "Year": 2015,
       "ClassCode": "GRA541",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/Ali_Ranjbar_Alive.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Ali_Ranjbar_Alive.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Çetin Tunger",
       "Year": 2015,
       "ClassCode": "GRA541",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/Cetin_Tunger_alive_web.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Cetin_Tunger_alive_web.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ebru Dilek",
       "Year": 2015,
       "ClassCode": "GRA541",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/Ebru-Dilek-TEMPLATE_web.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Ebru-Dilek-TEMPLATE_web.png' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gülşebnem Sayın",
       "Year": 2017,
       "ClassCode": "GRA207",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/ekin/Gülşebnem Sayın2.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/ekin/Gülşebnem Sayın2.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Fatih Şentürk",
@@ -1716,105 +1716,105 @@ const TEACHERWORKS = [
       "Year": 2015,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Dastan Abaskanov-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Dastan Abaskanov-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ece Karaca",
       "Year": 2015,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Ece Karaca 2 GRA226-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Ece Karaca 2 GRA226-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Engin Deniz Zabcı",
       "Year": 2015,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Engin Deniz Zabcı2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Engin Deniz Zabcı2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Gülşebnem Sayın",
       "Year": 2015,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Makbule Aslı Narin 1.1-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Makbule Aslı Narin 1.1-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Makbule Aslı Narin",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Makbule Aslı Narin-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Makbule Aslı Narin-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Makbule Aslı Narin",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Makbule Aslı Narin2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Makbule Aslı Narin2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sonat Arda Erdeniz",
       "Year": 2015,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Sonat Arda Erdeniz 1.2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Sonat Arda Erdeniz 1.2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Zeynep Sağır",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Zeynep Sağır2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Zeynep Sağır2-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Zeynep Sağır",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Zeynep Sağır-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Zeynep Sağır-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Yaren Yıldız",
       "Year": 2017,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Yaren Yıldız-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Yaren Yıldız-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Ege Yarım",
       "Year": 2017,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Ege Yarım-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Ege Yarım-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Esma Seçgin",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Esma Seçgin-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Esma Seçgin-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Müge Pelin Şen",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Pelin Şen-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Pelin Şen-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Müge Pelin Şen",
       "Year": 2016,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Pelin Şen-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Pelin Şen-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     },
     {
       "Owner": "Sonat Arda Erdeniz",
       "Year": 2015,
       "ClassCode": "GRA226",
       "Category": "Graphic Design",
-      "Product": "<img src='./instructors/atil/Sonat Arda Erdeniz2.1-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height='500' width='500'>"
+      "Product": "<img src='./instructors/atil/Sonat Arda Erdeniz2.1-min.jpg' style='border: #1fe6ff;border-style: solid;border-width: 5px;' height=auto width='500'>"
     }
   ],
   [{

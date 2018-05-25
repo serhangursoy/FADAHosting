@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
   <link rel="stylesheet" href="style.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <link rel="stylesheet" href="css/ion.rangeSlider.css" />
   <link rel="stylesheet" href="css/ion.rangeSlider.skinFada.css" />
   <link rel="stylesheet" href="css/modalStuff.css" />
@@ -29,7 +29,6 @@
     </h4>
     <h1>The World of
       <span>FADA
-        <span>.</span>
       </span>
     </h1>
     <p>
@@ -139,14 +138,14 @@
         </button>
       </div>
       <div class="modal-body">
-        <div>
+        <div id="rowHolder">
   <div class="row">
-    <div class="col-sm">
+    <div class="col-sm" id="imgCol">
       <span id="productField">
       <img src="./img/test.jpg" height="500" width="600" style="border: #1fe6ff;border-style: solid;border-width: 5px;"/>
     </span>
     </div>
-    <div class="col-sm" style="margin-top: 35%;  overflow: visible;">
+    <div id="writingCol" class="col-sm" style="margin-top: 35%;  overflow: visible;">
       <p class="lightWriting"> Done by: </p>
       <p class="boldWriting" id="donebyWriting" style="margin-top: -20px"> </p>
       <p class="lightWriting" style="color: gray">Year: </p>
