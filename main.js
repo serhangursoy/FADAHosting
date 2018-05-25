@@ -75,7 +75,7 @@ $(function() {
     hide_min_max: true,
     min: 1987,
     max: 2018,
-    from: 1994,
+    from: 2012,
     to: 2018,
     type: 'double',
     from_fixed: true,
@@ -151,6 +151,18 @@ $(function() {
 
 });
 
+$("#timelineType").show();
+$("#myChart").hide();
+
+function changeChart(num) {
+  if (num) {
+    $("#timelineType").hide();
+    $("#myChart").show();
+  } else {
+    $("#myChart").hide();
+    $("#timelineType").show();
+  }
+}
 
 $(function() {
   $("#doughnutChart").drawDoughnutChart([{
