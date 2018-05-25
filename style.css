@@ -751,7 +751,7 @@ section h4 {
 }
 
 
-@media screen and (max-width: 366px) {
+@media screen and (max-width: 376px) {
   section h1 {
     position: absolute;
     top: 40%;
