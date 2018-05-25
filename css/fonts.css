@@ -1,0 +1,84 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3539618, 2018-03-09T18:00:42-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Kelson-Bold by Armasen
+ * URL: https://www.myfonts.com/fonts/armasen/kelson/bold/
+ * 
+ * Webfont: Kelson by Armasen
+ * URL: https://www.myfonts.com/fonts/armasen/kelson/regular/
+ * 
+ * Webfont: Kelson-Light by Armasen
+ * URL: https://www.myfonts.com/fonts/armasen/kelson/light/
+ * 
+ * Webfont: Kelson-Medium by Armasen
+ * URL: https://www.myfonts.com/fonts/armasen/kelson/medium/
+ * 
+ * Webfont: Kelson-Thin by Armasen
+ * URL: https://www.myfonts.com/fonts/armasen/kelson/thin/
+ * 
+ * Webfont: Kelson-ExtraBold by Armasen
+ * URL: https://www.myfonts.com/fonts/armasen/kelson/extra-bold/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3539618
+ * Licensed pageviews: Unlimited
+ * Webfonts copyright: Armasen Typefaces&#x00AE; 2011 - All rights reserved.
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+  
+@font-face {font-family: 'Kelson-Bold';src: url('../fonts/3602A2_0_0.eot');src: url('../fonts/3602A2_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3602A2_0_0.woff2') format('woff2'),url('../fonts/3602A2_0_0.woff') format('woff'),url('../fonts/3602A2_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Kelson';src: url('../fonts/3602A2_1_0.eot');src: url('../fonts/3602A2_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3602A2_1_0.woff2') format('woff2'),url('../fonts/3602A2_1_0.woff') format('woff'),url('../fonts/3602A2_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Kelson-Light';src: url('../fonts/3602A2_2_0.eot');src: url('../fonts/3602A2_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3602A2_2_0.woff2') format('woff2'),url('../fonts/3602A2_2_0.woff') format('woff'),url('../fonts/3602A2_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Kelson-Medium';src: url('../fonts/3602A2_3_0.eot');src: url('../fonts/3602A2_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3602A2_3_0.woff2') format('woff2'),url('../fonts/3602A2_3_0.woff') format('woff'),url('../fonts/3602A2_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Kelson-Thin';src: url('../fonts/3602A2_4_0.eot');src: url('../fonts/3602A2_4_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3602A2_4_0.woff2') format('woff2'),url('../fonts/3602A2_4_0.woff') format('woff'),url('../fonts/3602A2_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Kelson-ExtraBold';src: url('../fonts/3602A2_5_0.eot');src: url('../fonts/3602A2_5_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3602A2_5_0.woff2') format('woff2'),url('../fonts/3602A2_5_0.woff') format('woff'),url('../fonts/3602A2_5_0.ttf') format('truetype');}
+ 
+.Kelson-Bold { 
+	font-family: Kelson-Bold;
+	font-weight: normal;
+	font-style: normal;
+}
+.Kelson { 
+	font-family: Kelson;
+	font-weight: normal;
+	font-style: normal;
+}
+.Kelson-Light { 
+	font-family: Kelson-Light;
+	font-weight: normal;
+	font-style: normal;
+}
+.Kelson-Medium { 
+	font-family: Kelson-Medium;
+	font-weight: normal;
+	font-style: normal;
+}
+.Kelson-Thin { 
+	font-family: Kelson-Thin;
+	font-weight: normal;
+	font-style: normal;
+}
+.Kelson-ExtraBold { 
+	font-family: Kelson-ExtraBold;
+	font-weight: normal;
+	font-style: normal;
+}
