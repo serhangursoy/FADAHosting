@@ -664,6 +664,10 @@ section::after {
 #chart2 {
       margin-top: -24% !important;
 }
+	
+	.modal-content {
+    margin-top: 40%;
+}
 
 .chart__column-x {
     position: absolute;
