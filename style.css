@@ -666,7 +666,7 @@ section::after {
 }
 	
 	.modal-content {
-    margin-top: 40%;
+    margin-top: 40% !important;
 }
 
 .chart__column-x {
